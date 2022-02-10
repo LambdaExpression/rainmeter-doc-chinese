@@ -1,0 +1,14 @@
+{
+  "<a class=\"navbar-brand\" href=\"https://docs.rainmeter.net\"><img src=\"\\img\\logo_nav.png\" alt=\"\"></a>": "<a class=\"navbar-brand\" href=\"/\"><img src=\"\\img\\logo_nav.png\" alt=\"\"></a>",
+  "<li class=\"nav-item active\">\n<a class=\"nav-link\" href=\"index.html\">Documentation</a>\n</li>": "<li class=\"nav-item active\">\n<a class=\"nav-link\" href=\"index.html\">文档</a>\n</li>",
+  "<li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//www.rainmeter.net/\">Home</a>\n</li>": "<li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//www.rainmeter.net/\">首页</a>\n</li>",
+  "<li class=\"nav-item \">\n<a class=\"nav-link\" href=\"../index.html\">Documentation</a>\n</li>": "<li class=\"nav-item \">\n<a class=\"nav-link\" href=\"../index.html\">文档</a>\n</li>",
+  "<li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//rainmeter.net/discover\">Discover</a>\n</li>": "<li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//rainmeter.net/discover\">发现</a>\n</li>",
+  "<li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//forum.rainmeter.net/\">Community</a>\n</li>": "<li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//forum.rainmeter.net/\">社区</a>\n</li><li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//forum.rainmeter.net/\">翻译支持</a>\n</li>",
+  "<a href=\"/manual\">Manual</a>":"<a href=\"/manual\">指南</a>",
+  "<h4>Contents</h4>": "<h4>内容</h4>",
+  "<h4>Reference</h4>": "<h4>参考</h4>",
+  "<h4>More</h4>": "<h4>更多</h4>",
+  "<a href=\"/manual/getting-started/\">Getting Started</a>": "<a href=\"/manual/getting-started/\">入门</a>",
+  "<a href=\"/manual/getting-started/setting-up/\">Setting Up</a>": "<a href=\"/manual/getting-started/setting-up/\">配置</a>"
+}
