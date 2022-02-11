@@ -1,3 +1,20 @@
 {
-  "<h2 class=\"mt-0\">Rainmeter Documentation</h2>": "<h2 class=\"mt-0\">Rainmeter 文档</h2>"
+  "<h2 class=\"mt-0\">Rainmeter Documentation</h2>": "<h2 class=\"mt-0\">Rainmeter 文档</h2>",
+  "<h4 class=\"card-title\">Manual</h4>": "<h4 class=\"card-title\">指南</h4>",
+  "<p>Reference and tutorial material for the current release version of Rainmeter.</p>": "<p>Rainmeter 最新版本的案例和教程资料。</p>",
+  "<h4 class=\"card-title\">Tips &amp; Tricks</h4>": "<h4 class=\"card-title\">小窍门 &amp; 技巧</h4>",
+  "<h2 class=\"mt-0\">Info</h2>": "<h2 class=\"mt-0\">介绍</h2>",
+  "<h3>Help</h3>": "<h3>帮助</h3>",
+  "<p>Help is available on <a href=\"//forum.rainmeter.net/\">the forum</a>. Members of the development team and the Rainmeter community offer support and advice on a volunteer basis.": "<p>需要帮助可以<a href=\"//forum.rainmeter.net/\">论坛</a>中查找。开发团队和Rainmeter社区的成员在自愿的基础上提供支持和建议。",
+  "<p>For shorter questions, join the discussion in our IRC chat room. Click <a target=\"_blank\" rel=\"noopener\" href=\"https://web.libera.chat/#rainmeter\">here</a> to chat in your browser, or use your own IRC client to connect to #rainmeter at irc.libera.chat/6697.": "<p>对于简短的问题，可以加入我们的 IRC 聊天室进行讨论。点击<a target=\"_blank\" rel=\"noopener\" href=\"https://web.libera.chat/#rainmeter\">这里</a>打开您的浏览器窗口聊天，或使用您自己的IRC客户端连接到#rainmeter at irc.libera.chat/6697..libera.chat/6697。",
+  "<h3>Contact</h3>": "<h3>联系</h3>",
+  "<p>For press inquiries or technical problems with the site or forums, email the development team at": "<p>对于网站或论坛的新闻查询或技术的问题，可以通过",
+  ". Please do not send Rainmeter or skin support requests to this address; use the forum or chat room instead. Support requests sent to this address will not be answered.": " 电子邮件发送开发团队。请不要把 Rainmeter 或皮肤技术支持请求发送到此地址，请使用论坛或聊天室。发送到此地址的技术支持请求将不会被解答。",
+  "<p>Suggested methods and solutions for using Rainmeter in the field.</p>": "<p>在使用 Rainmeter 中的建议和解决方案。</p>",
+  "<h4 class=\"card-title\">Snippets</h4>": "<h4 class=\"card-title\">案例</h4>",
+  "<p>Useful code fragments for running Lua scripts in Rainmeter.</p>": "<p>在 Rainmeter 中运行Lua脚本的参考代码片段。</p>",
+  "<h4 class=\"card-title\">Developers</h4>": "<h4 class=\"card-title\">开发</h4>",
+  "<p>Information for working with the Rainmeter project source code, creating custom plugins, and interacting with Rainmeter from external applications.</p>": "<p>使用 Rainmeter 项目源代码的信息，创建自定义插件，和让Rainmeter与其他应用程序的交互。</p>",
+  "<h4 class=\"card-title\">Version History</h4>": "<h4 class=\"card-title\">版本历史</h4>",
+  "<p>Complete record of changes in each version of Rainmeter.</p>": "<p>记录每个 Rainmeter 版本的修改内容。</p>"
 }
