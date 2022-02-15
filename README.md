@@ -1,6 +1,6 @@
 # Rainmeter 文档汉化 
 
-**(文档不定期汉化进行中...)**
+**(文档不定期,半人半机汉化进行中...)**
 
 汉化地址：[Rainmeter 中文文档](https://www.rainmeter.org.cn/)
 
