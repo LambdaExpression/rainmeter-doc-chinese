@@ -5,5 +5,7 @@
   "<p>After <a href=\"http://www.rainmeter.net\">downloading</a> and <a href=\"/manual/installing-rainmeter/\">installing</a> Rainmeter, the very next stop should be <a href=\"/manual/getting-started/\">入门</a>.</p>": "<p><a href=\"http://www.rainmeter.net\">下载</a> 和 <a href=\"/manual/installing-rainmeter/\">安装</a> Rainmeter, 下一步查看 <a href=\"/manual/getting-started/\">入门教程</a>.</p>",
   "<p>Getting Started is a <b>new user</b> introduction to Rainmeter, covering both how to use the application, and starting guides and tutorials for creating and editing skins.</p>": "<p>入门教程是提供给<b>新用户</b>介绍Rainmeter, 包括如何使用应用程序、启动指南和创建修改皮肤的教程。</p>",
   "<p>The rest of this documentation, and the experience of using and learning Rainmeter, will be much easier and more enjoyable with the overview Getting Started provides.</p>": "<p>剩余的文档是一些使用和学习 Rainmeter 的经验，将会让您更容易和愉快的入门。</p>",
+  "<h2 id=\"UsingRainmeter\">Using the Rainmeter application</h2>": "<h2 id=\"UsingRainmeter\">使用 Rainmeter</h2>",
+  "": "",
   "": ""
 }
