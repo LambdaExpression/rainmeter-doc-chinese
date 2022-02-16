@@ -11,5 +11,6 @@
   "<h4>Reference</h4>": "<h4>参考</h4>",
   "<h4>More</h4>": "<h4>更多</h4>",
   "<a href=\"/manual/getting-started/\">Getting Started</a>": "<a href=\"/manual/getting-started/\">入门</a>",
-  "<a href=\"/manual/getting-started/setting-up/\">Setting Up</a>": "<a href=\"/manual/getting-started/setting-up/\">配置</a>"
+  "<a href=\"/manual/getting-started/setting-up/\">Setting Up</a>": "<a href=\"/manual/getting-started/setting-up/\">配置</a>",
+  "</body>": "<script>\nvar _hmt = _hmt || [];\n(function() {\n  var hm = document.createElement(\"script\");\n  hm.src = \"https://hm.baidu.com/hm.js?03162c6c509e76ff2e2cf657c47fbb50\";\n  var s = document.getElementsByTagName(\"script\")[0]; \n  s.parentNode.insertBefore(hm, s);\n})();\n</script>\n</body>"
 }
