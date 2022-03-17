@@ -1,0 +1,10 @@
+{
+  "<h1 class=\"page-title\">Getting Started</h1>": "<h1 class=\"page-title\">入门</h1>",
+  "<p>If this is your first experience with Rainmeter, then you're in the right place! <em>Getting Started</em> is a guide designed to walk you through the basics of setting up Rainmeter, using, customizing, and ultimately creating your own skins.</p>": "<p>如果这是你第一次使用 Rainmeter ，那么你就找对地方了!<em>《入门》</em>是一个引导您如何进行Rainmeter的基本设置、使用、自定义，和最终可以创建属于你自己的 skins。</p>",
+  "<p>Before you <a href=\"/manual/getting-started/setting-up/\">begin</a>, here are some frequently-asked questions about what Rainmeter is and how it works.</p>": "<p>在 <a href=\"/manual/getting-started/setting-up/\">开始</a> 之前, 这里有一些关于 Rainmeter 的经常被问到的问题，以及它是如何工作的。</p>",
+  "<h2 id=\"WhatIsRainmeter\">What is Rainmeter?</h2>": "<h2 id=\"WhatIsRainmeter\">什么是 Rainmeter ?</h2>",
+  "<p>Rainmeter is a free, open-source application for Windows PCs. It is a platform that enables <strong>skins</strong> to run on the desktop.</p>": "<p>Rainmeter是一个免费的、开源的 Windows 桌面应用。是一个提供可以开启 <strong>skins</strong> 运行在您电脑桌面的软件。</p>",
+  "<h3 id=\"WhatIsASkin\">What is a \"skin\"?</h3>": "<h3 id=\"WhatIsASkin\">什么是 \"skin\"?</h3>",
+  "<p>Some Rainmeter skins. Each skin is a separate window, and can be moved around on the desktop by clicking and dragging. Rainmeter can run any number of skins at one time, even from different sources.</p>": "<p>图中有许多的 Rainmeter skins。每一个 skin 都是单独存在于 window 桌面上，您能点击或拖拽在桌面上的 skin。Rainmeter 能在同一时间内运行任意数量的 skins ，即使它们来自不同的来源。</p>",
+  "": ""
+}
