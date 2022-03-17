@@ -1,4 +1,6 @@
 {
+  "- Rainmeter Docs\">": "- Rainmeter 中文文档\">",
+  "\"Rainmeter Docs\">": "\"Rainmeter 中文文档\">",
   "<a class=\"navbar-brand\" href=\"https://docs.rainmeter.net\"><img src=\"\\img\\logo_nav.png\" alt=\"\"></a>": "<a class=\"navbar-brand\" href=\"/\"><img src=\"\\img\\logo_nav.png\" alt=\"\"></a>",
   "<li class=\"nav-item active\">\n<a class=\"nav-link\" href=\"index.html\">Documentation</a>\n</li>": "<li class=\"nav-item active\">\n<a class=\"nav-link\" href=\"index.html\">文档</a>\n</li>",
   "<li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//www.rainmeter.net/\">Home</a>\n</li>": "<li class=\"nav-item>\">\n<a class=\"nav-link\" href=\"//www.rainmeter.net/\">首页</a>\n</li>",
