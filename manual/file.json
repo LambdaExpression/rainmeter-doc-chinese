@@ -1,4 +1,5 @@
 {
+  " content=\"Manual ": " content=\"指南 ",
   "<h1 class=\"page-title\">Manual</h1>": "<h1 class=\"page-title\">指南</h1>",
   "<p>Rainmeter displays customizable skins, like memory and battery charge, RSS feeds and weather forecasts, right on your desktop. Many skins are even functional: they can record your notes and to-do lists, launch your favorite applications, and control your media player - all in a clean, unobtrusive interface that you can rearrange and customize to your liking. Rainmeter is at once an application and a toolkit. You are limited only by your imagination and creativity.</p>": "<p>Rainmeter 显示可定制的 skins ，如内存和电池充电，RSS源和天气预报，在您的桌面右上方。许多 skins 甚至是功能：他们可以记录您的笔记和待办事项列表，启动您喜欢的应用程序，并控制您的媒体播放器 - 所有在一个干净，不引人注目的界面中，您可以重新排列和定制您的喜好。Rainmeter 是一个应用程序和工具包。你只被你的想象力和创造力所限制。</p>",
   "<h2 id=\"GettingStarted\">Getting started with Rainmeter</h2>": "<h2 id=\"GettingStarted\">开始使用 Rainmeter</h2>",
